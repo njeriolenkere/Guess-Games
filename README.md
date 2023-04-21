@@ -1,4 +1,4 @@
-# Guess-Games: Switch between 3 games 
+# Guess-Games: Switch and play between 3 games 
 
 1. Guess a random number between 0 - 99
 2. Enter a min and max to generate a random number
